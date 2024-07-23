@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", helvetica, sans-serif;
+    background: #e6e6e6;
+}
+
+#cabecalho{
+    background: seagreen;
+    padding: 10px;
+    
+}
+
+#titulo2{
+    display: block;
+    padding-bottom: 10px;
+}
+
+#titulo{
+    text-align: center;
+    padding: 10px;
+}
+
+
+#listagemMenu{
+    text-align: center;
+    padding: 10px;
+
+}
+
+#lista{
+    align-items: center;
+}
+
+#white{
+    color: white;
+}
+
+#postagem{
+    
+    float: left;
+    padding-top: 40px;
+    width: 660px;
+
+}
+
+#noticias{
+    float: right;
+    width: 240px;
+    padding-top: 20px;
+    
+  
+}
+
+#areaPrincipal{
+    margin: 0px auto;
+    width: 960px;
+    height: auto;
+    display: flow-root;
+}
+
+#leiaMais{
+    color: orange;
+    background: white;
+
+}
+
+#clear{
+    clear:both;
+}
+
+#rodape{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    background: #CCC;
+}
+
+#valor{
+    color: blue;
+}
+
+.link{
+    color: #f7bd00b4;
+   
+}
+
+.whiteBackground{
+    background: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 10px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #f7bd00b4;
+    background: white;
+    padding: 10px;
+}
+
+
+h1{
+    color: #4e4e4e;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+h2{
+    color: #8a6d0b;
+    padding-bottom: 10px;
+    width: 300px;
+}
+
+h3{
+    color: #666666;
+    background: #b5b5b5;
+    height: 28px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#texto{
+    width: 400px;
+}
+
+p{
+    background: white;
+    display: block;
+}
+
+
